@@ -82,9 +82,23 @@ class CommentFetcher:
         #评论内容 所有span标签class名为short的节点文本
         self.content = dom.xpath(self.base_node + '//span[@class="short"]/text()')
 
+    def _get_user_info(self):
+        self.address_list = []
+        for link in self.user_center:
+            try:
+                print('正在获取地理位置信息')
+                html = requests.get(link, headers=self.headers, cookies=self.cookies)
+                dom = etree.HTML(html.text)
+
+                address = dom.xpath('//div[@class="user-info"]/a/text()')[0]
+                self.address_list.append(address)
+            except Exception as e:
+                self.address_list.append('未知')
+
     #保存到数据库
     def save_to_database(self):
         self._parse()
+        self._get_user_info()
         #数据一条一条插入
         for i in range(len(self.id)):
             try:
@@ -95,9 +109,10 @@ class CommentFetcher:
                     vote=int(self.vote[i]),
                     star=self.star[i],
                     time=datetime.strptime(self.time[i], '%Y-%m-%d %H:%M:%S'),
-                    content=self.content[i]
+                    content=self.content[i],
+                    address=self.address_list[i],
                 )
-                
+
                 self.session.add(comment)
                 self.session.commit()
                 #提交到数据库
@@ -135,11 +150,12 @@ if __name__ == '__main__':
     #[综合评论、好评、中评、差评]
     for i in ['', 'h', 'm', 'l']:
         #最多爬取24页
-        for j in range(1):
+        for j in range(25):
             fetcher = CommentFetcher(movie_id=26266893, start=j * 20, type=i)
             #保存到数据库
-            #fetcher.save_to_database()
+            fetcher.save_to_database()
             #保存到csv
-            fetcher.save_to_csv()
+            #fetcher.save_to_csv()
+
 
 
