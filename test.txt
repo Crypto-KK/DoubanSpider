@@ -1,0 +1,673 @@
+<div class="comment-item" data-cid="1646667826">
+
+
+        <div class="avatar">
+            <a title="我是王大鹏啊！" href="https://www.douban.com/people/cheer.o/">
+                <img src="https://img1.doubanio.com/icon/u2986042-477.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">13992</span>
+                <input value="1646667826" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/cheer.o/" class="">我是王大鹏啊！</a>
+                    <span>看过</span>
+                    <span class="allstar20 rating" title="较差"></span>
+                <span class="comment-time " title="2019-01-28 22:15:04">
+                    2019-01-28
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">失望 一群聒噪的角色让人忍不住觉得地球还是毁灭了比较好</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item" data-cid="1646640875">
+
+
+        <div class="avatar">
+            <a title="艾晨" href="https://www.douban.com/people/satan163/">
+                <img src="https://img3.doubanio.com/icon/u1140816-93.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">19706</span>
+                <input value="1646640875" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/satan163/" class="">艾晨</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2019-01-28 21:58:02">
+                    2019-01-28
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">三星鼓励一下吧，四个字：太儿戏了。硬科幻和硬要科幻是两回事。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item" data-cid="1635458275">
+
+
+        <div class="avatar">
+            <a title="陆支羽" href="https://www.douban.com/people/luzhiyu/">
+                <img src="https://img3.doubanio.com/icon/u2866549-132.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">60511</span>
+                <input value="1635458275" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/luzhiyu/" class="">陆支羽</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2019-01-29 20:10:48">
+                    2019-01-29
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">1.终于，轮到我们仰望星空。2.后启示录死亡废墟，赛博朋克地下城，以及烟波浩渺的末日想象，缔造了真正意义上的第一部国产硬科幻。3.拖着地球逃离太阳系的惊艳设定，本身便是对“家国情怀”的宏大投射，正应了刘慈欣那句“太阳死了，人还活着”。4.绝不仅仅只是电影工业巨壳下的类型尝试，始终荡涤其间的悲壮气息已然具备了史诗级质感，这是大刘的脑洞宇宙与电影创作团队精益求精造就的惊喜。5.屈楚萧很带感，演活了一个勇敢、中二又不失温情的英雄少年。6.期待能成爆款吧，这样才有机会等到更多的国产科幻电影；或许以后会出现更好的，但至今这无疑是最好的。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item" data-cid="1655179164">
+
+
+        <div class="avatar">
+            <a title="影志" href="https://www.douban.com/people/tjz230/">
+                <img src="https://img1.doubanio.com/icon/u1005928-127.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">69217</span>
+                <input value="1655179164" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/tjz230/" class="">影志</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2019-02-04 15:56:16">
+                    2019-02-04
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">电影比预期要更恢弘磅礴，晨昏线过后的永夜、火种计划、让地球流浪、木星推动地球…等等大小设定，没想到中国也能拍这么大架构、大格局的科幻片了，而且是第一部，了不得。以前看国外科幻感觉离我们很远，这一次看到熟悉的北京大裤衩、上海东方明珠都变成零下89°冰天冻地的末世场景，既猎奇又唏嘘。虽然在剧情上有套路，对于这部中国文化背景下的科幻新生儿，鼓励多于挑剔。导演说美国人拍科幻是放弃地球、去挖掘新的人类居住地，而中国人是不放弃地球、守住家土的情怀…“希望是我们回家的唯一方向”</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item" data-cid="1635702027">
+
+
+        <div class="avatar">
+            <a title="乌鸦火堂" href="https://www.douban.com/people/dreamfox/">
+                <img src="https://img3.doubanio.com/icon/u2297669-12.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">13741</span>
+                <input value="1635702027" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/dreamfox/" class="">乌鸦火堂</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2019-01-20 19:00:54">
+                    2019-01-20
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">华语真正意义上的第一部科幻大片！刘慈欣的硬核科幻设定，小兵扛大旗的主流价值观人设，东方式的家庭理念核心，地心引力与星际穿越的融合。故事铺排+情节张力+情绪渲染+镜头调度非常娴熟，意料之外的特效大场面超赞。虽然有瑕疵但整体非常流畅，后30分钟更攥着手看，几处情节令人泪目，片尾BGM燃爆。“比肩好莱坞、电影工业”已是老生常谈，我认为这是华语电影的发展方向，不算完美但完成度和起点相当高，给你五星不怕你骄傲</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item" data-cid="1400891798">
+
+
+        <div class="avatar">
+            <a title="张小北" href="https://www.douban.com/people/xzfd/">
+                <img src="https://img1.doubanio.com/icon/u2279829-7.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">12011</span>
+                <input value="1400891798" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/xzfd/" class="">张小北</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2019-01-29 02:11:13">
+                    2019-01-29
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">从各个方面来说都是一部好看的类型片。而最特别的是它是一部国产科幻电影，影迷+科幻迷的双重满足。和最好的好莱坞视效电影相比肯定有差距，但差距已经是肉眼可见的了，剩下的都是假以时日就有机会追上的。追求最广泛的情感共鸣是所有商业类型片都要努力做到的，在某些人看来很俗，但我觉得这一点反而应该是值得骄傲的。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item" data-cid="1656169114">
+
+
+        <div class="avatar">
+            <a title="frozenmoon" href="https://www.douban.com/people/1233038/">
+                <img src="https://img3.doubanio.com/icon/u1233038-2.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">3210</span>
+                <input value="1656169114" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/1233038/" class="">frozenmoon</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2019-02-05 16:29:48">
+                    2019-02-05
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">1.从特效和技术上讲，这应该是迄今为止此类中国电影的巅峰了。磅礴恢宏，细节营造用心。2.故事层面比较糟糕，很好奇到底出于什么原因，造成几乎超过40%的台词都是后配的，而且对不上口型，明显是片子成型后彻底改词重配的。这严重影响故事质量。3.作为类型片，很多讲述方式有明显问题，比如人物特征不鲜明，交代不清楚，刘启变成“刘户口”，这种启字的拆解为什么不交代?李一一变成“李长条”留给谁去猜?4.很多地方增加众多根本无意义的插科打诨，自以为幽默但毫无笑点非常尴尬。5.这个全球化的项目中，中俄合作，稍稍出现一句法语，两句日语，美国只闪现一次国旗，美国的缺席，出于什么原因?好奇。6.科幻特效技术有了巨大进步，但技术这只是科幻电影的一部分。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item" data-cid="1655519383">
+
+
+        <div class="avatar">
+            <a title="沙雕电影" href="https://www.douban.com/people/185573840/">
+                <img src="https://img3.doubanio.com/icon/u185573840-2.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">36290</span>
+                <input value="1655519383" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/185573840/" class="">沙雕电影</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2019-02-05 00:24:35">
+                    2019-02-05
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">一个悲伤的故事：太阳都要毁灭，地球都要流浪了，我国的校服还是这么丑......</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item" data-cid="1655565916">
+
+
+        <div class="avatar">
+            <a title="gus" href="https://www.douban.com/people/168391468/">
+                <img src="https://img3.doubanio.com/icon/u168391468-1.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">12920</span>
+                <input value="1655565916" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/168391468/" class="">gus</a>
+                    <span>看过</span>
+                    <span class="allstar20 rating" title="较差"></span>
+                <span class="comment-time " title="2019-02-05 01:33:03">
+                    2019-02-05
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">台词做作剧情薄弱没一个演员在线 无时无刻的尬笑走心台词还以为编剧是激素泛滥的中年少女 感觉看了一部战狼3 最后小女生用一篇激情澎湃的即兴小学生作文感动了全球救援队 中国梦实现了！</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item" data-cid="1657334172">
+
+
+        <div class="avatar">
+            <a title="Booige Boom" href="https://www.douban.com/people/58713868/">
+                <img src="https://img3.doubanio.com/icon/u58713868-1.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">7786</span>
+                <input value="1657334172" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/58713868/" class="">Booige Boom</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2019-02-06 03:54:42">
+                    2019-02-06
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">8.8，热评第一条我就呵呵了，中国科幻电影为什么不值得我们打高分去鼓励，非要放在国际水平线上才是客观的吗，您真的有那么客观吗，我看《七武士》、《漫游太空2001》的时候，我要不顾及他是那个时代的电影，我会给那么高的评价吗，同样都是时间轴上的事情，我觉得国产这种东西给高一点评价真的没问题，真的需要鼓励，才能继续发展，我国多少题材和类型的电影就是被您这种想法所阻碍和难以发展的，向您这样的评论，中国科幻电影真的是寸步难行了，中国电影也会受之影响，真的希望大家能明白，结合我国电影发展的历史来评价国产电影。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item" data-cid="1656206399">
+
+
+        <div class="avatar">
+            <a title="姨妈的鸭" href="https://www.douban.com/people/yimaxxduck/">
+                <img src="https://img1.doubanio.com/icon/u27405327-58.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">5932</span>
+                <input value="1656206399" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/yimaxxduck/" class="">姨妈的鸭</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2019-02-05 16:51:54">
+                    2019-02-05
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">春节期间最大的一场烟花，是看你爸为你和地球点燃的宇宙爆炸，太朋克了。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item" data-cid="1394272993">
+
+
+        <div class="avatar">
+            <a title="巽" href="https://www.douban.com/people/nothingbut/">
+                <img src="https://img3.doubanio.com/icon/u2072047-230.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">4911</span>
+                <input value="1394272993" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/nothingbut/" class="">巽</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2019-01-22 05:43:32">
+                    2019-01-22
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">4星，多一星鼓励。华语电影工业飞跃的节点，技术、剧本、精神内核，各方面都是全球尺度下顶级同行们的优秀学生水准。可贵之处就在于，作为先行者和新生代，能分辨什么是好的，应当学习的，并用十二分的力气把它们执行出来。比起科幻，我更看重和感动是它作为电影本身的意义，终于让我对华语电影有了一丝“总是往好里去”的希望。执拗、赤诚、勇敢、高贵——是的，甚至称得上高贵，负载着沉重的文化烙印，但依然元气淋漓，令人击节的少年。像那颗燃烧自己驱动前行的淡蓝色小球，向着茫茫宇宙，星辰大海，出发。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item" data-cid="1644695197">
+
+
+        <div class="avatar">
+            <a title="凌睿" href="https://www.douban.com/people/lingrui1995/">
+                <img src="https://img1.doubanio.com/icon/u63688511-18.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">11637</span>
+                <input value="1644695197" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/lingrui1995/" class="">凌睿</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2019-01-27 14:16:11">
+                    2019-01-27
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">《流浪地球》小说本就想象力丰富，让地球连同地球人一同逃难的创意荡气回肠、惊艳无比。
+电影中的行星发动机很硬核，还原了小说中“雅典卫城神殿的巨柱”的描写；
+地球启航产生的尾迹清晰可见，宛如一艘巨型飞船遨游宇宙之间；
+北京、上海被冰雪覆盖气势磅礴；地木交会更是让人瞠目结舌，试问有电影能看到这样一幕？
+最后表扬一下片尾的《流浪地球》小说的特效，比漫威的漫画翻页片头还精彩。
+电影保持了小说的整体框架，有一定改动（严格说其实是扩充），只拍了小说的前两章，最精彩的《叛乱》希望能在续集看到。
+新加入的点燃木星很有新意，这种有创意的改动我还是能够接受。
+《流浪地球》的上映填补了中国科幻电影的空白，意味着中国科幻电影正式启航，让“中国科幻电影元年”迎来真正的春天。
+中国科幻迷从此不再流浪，因为我们终于有硬科幻了！</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item" data-cid="1652540924">
+
+
+        <div class="avatar">
+            <a title="亵渎电影" href="https://www.douban.com/people/zhangzongqian/">
+                <img src="https://img3.doubanio.com/icon/u3995080-211.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">8184</span>
+                <input value="1652540924" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/zhangzongqian/" class="">亵渎电影</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2019-02-02 14:29:09">
+                    2019-02-02
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">中国导演能拍出这样的硬科幻，看到这样的完成度，想想就激动，可以让人原谅一切不完美！说这部电影是中国科幻电影的元年自然是站不住脚，毕竟国内早就拍过很多软科幻，但说《流浪地球》是中国硬科幻电影的第一座里程碑，或者说中国硬科幻电影的元年，这是任何人都无可反驳的，它的工业化程度在国内绝对是前所未有的，是一部可以载入中国电影史的电影！其实中国观众对于这类型的硬科幻并不陌生，只是国内一直没有拍摄这种硬科幻大制作的工业基础，也可能是因为中国人没有这样的文化自信，找不到中国独有的文化语境，并不相信中国人可以去拯救地球，拯救世界。直到今天，终于有导演做了这件事情，而且做的非常棒，给中国的硬科幻竖起了一个很高的行业标杆，在中国人的文化语境里用中国人的方式拯救全人类，也一样可以拍的毫无违和感，一样燃爆！</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item" data-cid="1635390644">
+
+
+        <div class="avatar">
+            <a title="流儿" href="https://www.douban.com/people/yingpingduli/">
+                <img src="https://img3.doubanio.com/icon/u66469764-150.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">5011</span>
+                <input value="1635390644" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/yingpingduli/" class="">流儿</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2019-01-20 14:56:12">
+                    2019-01-20
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">宏大又动人。为原著赋予了细腻的想象，整体气质比美式末日片都多了一份安静和真实，也有萦绕不去的悲伤。最戳心的当然还是《流浪地球》选择带着地球寻找新的星系，而不是开辟新的居住地，等冰有天化为水，子孙依然能看到北京、上海、贝加尔湖，这点可真是太乡愁了。看完念念不忘的并不是角色，而是电影带来的挥之不去的孤独感，望着头顶的太阳，真是又温暖又寒冷。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item" data-cid="1632367931">
+
+
+        <div class="avatar">
+            <a title="王小叶儿" href="https://www.douban.com/people/wangxiaoyeer/">
+                <img src="https://img3.doubanio.com/icon/u50809981-21.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">4464</span>
+                <input value="1632367931" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/wangxiaoyeer/" class="">王小叶儿</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2019-01-20 13:16:30">
+                    2019-01-20
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">就在我已经彻底被国内影视技术限制了想象力，不相信中国能有真正意义的科幻电影时，流浪地球便对着我的心脏狠狠扎了一针强心剂，走出电影院都还恍若隔世，中国真的也有这样的电影了吗，真的不是在做梦吗。相信，这是一部定会写进中国影史、中国科幻影史、中国太空电影史、中国影视工业进程史的一部科幻杰作，庆幸能成为见证者。此刻我手中的那张电影票不再是一张观影入场券，更像是一次亲历奇迹的勋章。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item" data-cid="1635739162">
+
+
+        <div class="avatar">
+            <a title="小姬" href="https://www.douban.com/people/jishaoting/">
+                <img src="https://img3.doubanio.com/icon/u1828063-71.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">1868</span>
+                <input value="1635739162" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/jishaoting/" class="">小姬</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2019-01-20 19:29:40">
+                    2019-01-20
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">在西安看完零点场，上座率好得惊人，观众素质极高，我隔壁的哥们（不认识）在电影结束的那一刻对着郭帆的名字大叫一声“牛逼！”
+第三次看了，还是看哭了，我看到了一个未来，那就是《流浪地球》会成为星战那样延续几十年的经典系列，几十年后，我会在电影院看到地球抵达半人马座阿尔法星，也就是三体星系，冰融化成水，人类的孩子在贝加尔湖畔钓鱼。而我们这一代人垂垂老矣，在影院里默默流泪，更多的年轻人因此爱上科幻。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item" data-cid="1646908843">
+
+
+        <div class="avatar">
+            <a title="顿河" href="https://www.douban.com/people/alexcite/">
+                <img src="https://img1.doubanio.com/icon/u14484993-9.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">1544</span>
+                <input value="1646908843" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/alexcite/" class="">顿河</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2019-01-29 00:59:17">
+                    2019-01-29
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">一定会有人来较真儿，不过尔尔。但就是喜欢以及尊敬。人类有两只眼睛，既要关注当下，也要眺望远方。赶长路总得看得远些，多点夸父追日的浪漫，就能多点愚公移山的可能。【流浪地球】是个不断在两个坏的结果里做选择的故事，希望是唯一的标准。说是科幻元年，意味着一片荒芜百废待兴，而出发的决心和勇气，赢得的将不只是尊重，因为今天就是明天的昨天。最喜欢片尾的那段话，我们是个缺乏谈论普世价值基础的社会，但希望和勇气，总是可以也应该说的吧。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item" data-cid="1656002480">
+
+
+        <div class="avatar">
+            <a title="江寒园" href="https://www.douban.com/people/63306399/">
+                <img src="https://img3.doubanio.com/icon/u63306399-3.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">2803</span>
+                <input value="1656002480" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/63306399/" class="">江寒园</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2019-02-05 14:31:49">
+                    2019-02-05
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">1. 煽情、尴尬与生硬并存
+2.主要是2001太空漫游（致敬AI杀人太空戏）和罗兰.艾默里奇灾难类型的杂糅。如「后天」里宏观视角和家庭线小视角的结合，但处理太生硬。尤其地面这条线一开始就给这么多镜头叙事实在是缺乏矛盾内驱力。
+3.剪辑问题不少：吴孟达坠落那里有谁看清了吗，还有俩兄妹坠落，之后就直接出现在球里了，事件线剪辑混乱，缺乏逻辑前后关联。
+4，台词欠打磨，表演也尴尬，尤其刘启的生硬对冲，尬硬尬硬的，直逼李易峰在老炮儿里的演技。儿子表演全靠吼。
+5. 大刘的想象力设定一流，很多人的赞美也都是冲着这个去的，但是恕我直言，这个导演没跟上，电影其他部分从剧作到配乐表演剪辑都不及格。现在显然鼓励太多——上一次还是大圣归来，从国产动漫到科幻，都是批评不得
+
+客观就2.5，打了三星都有人来骂
+
+
+
+</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item" data-cid="1562641462">
+
+
+        <div class="avatar">
+            <a title="乙小囧" href="https://www.douban.com/people/chaneagle/">
+                <img src="https://img3.doubanio.com/icon/u45087052-3.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">1034</span>
+                <input value="1562641462" type="hidden"/>
+                <a href="javascript:;" class="j a_vote_comment" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/chaneagle/" class="">乙小囧</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2019-02-06 07:23:26">
+                    2019-02-06
+                </span>
+            </span>
+        </h3>
+        <p class="">
+
+                <span class="short">这片要是美国拍的可以给80分，中国拍的我给200分！你能想象在波士顿的IMAX电影院里坐满人，看完集体鼓掌的画面吗？燃，巨燃，全程无尿点，特效满分，剧情瑕不掩瑜。。豆瓣为什么不能打6星？⭐⭐⭐⭐⭐⭐</span>
+        </p>
+    </div>
+
+        </div>
+
+
+
+
+    <div class="comments-footer-tips">
+        * 影片上映之前的、与影片无关的或包含人身攻击等内容的短评都将有可能被折叠，且评分不计入豆瓣评分。<br/>
+        * 短评的排序是将豆瓣成员的投票加权平均计算后的结果，通过算法的调校，更好地反映短评内容的价值。<br/>
+    </div>
+
+
+        <div id="paginator" class="center">
+                <span class="first"><< 首页</span>
+                <span class="prev">< 前页</span>
+                <a href="?start=20&amp;limit=20&amp;sort=new_score&amp;status=P&amp;percent_type=" data-page="" class="next">后页 ></a>
+        </div>
