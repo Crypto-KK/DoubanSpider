@@ -111,7 +111,7 @@ class CommentFetcher:
                     star=self.star[i],
                     time=datetime.strptime(self.time[i], '%Y-%m-%d %H:%M:%S'),
                     content=self.content[i],
-                    address=self.address_list[i],
+                    #address=self.address_list[i],
                 )
 
                 self.session.add(comment)
