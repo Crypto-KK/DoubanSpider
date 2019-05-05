@@ -64,6 +64,7 @@ class CommentFetcher:
         return res
 
     def _parse(self):
+
         res = self._get()
         dom = etree.HTML(res)
 
@@ -81,7 +82,7 @@ class CommentFetcher:
         self.time = dom.xpath(self.base_node + '//span[@class="comment-time "]/@title')
         #评论内容 所有span标签class名为short的节点文本
         self.content = dom.xpath(self.base_node + '//span[@class="short"]/text()')
-
+        print(self.content)
     def _get_user_info(self):
         self.address_list = []
         for link in self.user_center:
@@ -98,7 +99,7 @@ class CommentFetcher:
     #保存到数据库
     def save_to_database(self):
         self._parse()
-        self._get_user_info()
+        #self._get_user_info()
         #数据一条一条插入
         for i in range(len(self.id)):
             try:
@@ -151,7 +152,7 @@ if __name__ == '__main__':
     for i in ['', 'h', 'm', 'l']:
         #最多爬取24页
         for j in range(25):
-            fetcher = CommentFetcher(movie_id=26266893, start=j * 20, type=i)
+            fetcher = CommentFetcher(movie_id=26363254, start=j * 20, type=i)
             #保存到数据库
             fetcher.save_to_database()
             #保存到csv
